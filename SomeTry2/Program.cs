@@ -10,6 +10,8 @@ namespace SomeTry2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, gangster's!");
+            Console.Read();
         }
     }
 }
